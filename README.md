@@ -4,7 +4,7 @@ foo-template
 Template for foo
 
 
-Project Status
+Project Status 
 ============
 
 |         | Status       |
